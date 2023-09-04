@@ -1,13 +1,14 @@
-## Official implementation of EEOF: "Online Ensemble of Ensemble OVA Framework for Class Evolution with Dominant Emerging Classes" in the proceedings of ICDM 2023
+# EEOF
+Official implementation of EEOF: "Online Ensemble of Ensemble OVA Framework for Class Evolution with Dominant Emerging Classes" in the proceedings of ICDM 2023
 
-### Datasets
+## Datasets
 
 All the datasets mentioned have been made available in the [datasets](./datasets) folder, including synthetic datasets and real-world datasets.
 
-### Dependencies
+## Dependencies
 MATLAB R2022b
   
-### Data Preparation
+## Data Preparation
 * Steps:
   * Download ".zip" file in this [share link](https://drive.google.com/file/d/1ycg5T8YgpgUfR5moqWA5uMmNLpiJ32ld/view?usp=drive_link), and unzip it to the folder "./datasets"
   * Run the python scripts "synthetic_disp_reoccur.py" and "synthetic_emerging.py" to get all mentioned synthetic data streams.
@@ -25,13 +26,13 @@ MATLAB R2022b
   * KDDCUP99: kddcup99.mat
   * Poker-hand: pokerlsn.mat
 
-### Experiments
+## Experiments
 * EEOF and CBCE on synthetic data streams:
   * Run "main_real.m".
 * EEOF and CBCE on real-world data streams:
   * Run "main_synthetic.m".
 
-### Useful Information
+## Useful Information
 * Results:
   * Running temporary files, including logs, figures, predictions, and other detailed information in algorithms, are stored in "./results".
   * Table that stores results for each data stream will be listed in current directory. 
@@ -46,10 +47,10 @@ MATLAB R2022b
   * run_algorithm.m: running setting for algorithms
   * store_in_csv.m: store evaluation results into csv files
 
-### Full Paper
+## Full Paper
 The full paper can be found at []().
 
-### Citation
+## Citation
 ```
 
 ```
