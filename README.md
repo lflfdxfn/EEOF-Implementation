@@ -11,7 +11,7 @@ MATLAB R2022b
 ## Data Preparation
 * Steps:
   * Download ".zip" file in this [share link](https://drive.google.com/file/d/1ycg5T8YgpgUfR5moqWA5uMmNLpiJ32ld/view?usp=drive_link), and unzip it to the folder "./datasets"
-  * Run the python scripts "synthetic_disp_reoccur.py" and "synthetic_emerging.py" to get all mentioned synthetic data streams.
+  * Run the python scripts "synthetic_disp_reoccur.py" and "synthetic_emerging.py" in the ".zip" file to get all mentioned synthetic data streams.
 
 * Synthetic data streams: "./datasets/synthetic_datasets"
   * Scenario 1: Class emergence with a dominant amount, varying hyperparameter $p_{max}$.
@@ -39,13 +39,13 @@ MATLAB R2022b
 * Code:
   * main_real.m: script that runs real-world data streams
   * main_synthetic.m: script that runs synthetic data streams
-  * CBCE.m: state-of-the-art method for comparison
+  * CBCE.m: the state-of-the-art method for comparison
   * EEOF.m: our proposed method
   * algo_list.m: list of method
   * algo_settings: hyperparameter settings in algorithm
   * eval_sliding.m: evaluation metric
   * run_algorithm.m: running setting for algorithms
-  * store_in_csv.m: store evaluation results into csv files
+  * store_in_csv.m: store evaluation results into ".csv" files
 
 ## Full Paper
 The full paper can be found at []().
