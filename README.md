@@ -51,7 +51,12 @@ MATLAB R2022b
 The full paper can be found at []().
 
 ## Citation
-```
-
+```bibtex
+@inproceedings{zhi2023online,
+  title={Online Ensemble of Ensemble OVA Framework for Class Evolution with Dominant Emerging Classes},
+  author={Zhi, Cao and Shuyi, Zhang and Chin-Teng, Lin},
+  booktitle={2023 IEEE International Conference on Data Mining (ICDM)},
+  year={2023}
+}
 ```
 
