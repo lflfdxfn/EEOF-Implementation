@@ -56,7 +56,8 @@ The full paper can be found at []().
   title={Online Ensemble of Ensemble OVA Framework for Class Evolution with Dominant Emerging Classes},
   author={Zhi, Cao and Shuyi, Zhang and Chin-Teng, Lin},
   booktitle={2023 IEEE International Conference on Data Mining (ICDM)},
-  year={2023}
+  year={2023},
+  doi={10.1109/ICDM58522.2023.00109},
+  pages={968-973}
 }
 ```
-
