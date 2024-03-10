@@ -52,12 +52,15 @@ The full paper can be found at []().
 
 ## Citation
 ```bibtex
-@inproceedings{zhi2023online,
-  title={Online Ensemble of Ensemble OVA Framework for Class Evolution with Dominant Emerging Classes},
-  author={Zhi, Cao and Shuyi, Zhang and Chin-Teng, Lin},
-  booktitle={2023 IEEE International Conference on Data Mining (ICDM)},
+@INPROCEEDINGS{zhi2023online,
+  author={Cao, Zhi and Zhang, Shuyi and Lin, Chin-Teng},
+  booktitle={2023 IEEE International Conference on Data Mining (ICDM)}, 
+  title={Online Ensemble of Ensemble OVA Framework for Class Evolution with Dominant Emerging Classes}, 
   year={2023},
-  doi={10.1109/ICDM58522.2023.00109},
-  pages={968-973}
+  volume={},
+  number={},
+  pages={968-973},
+  keywords={Degradation;Adaptation models;Pandemics;Data models;Data mining;data stream mining;online learning;class evolution;ensemble model},
+  doi={10.1109/ICDM58522.2023.00109}
 }
 ```
