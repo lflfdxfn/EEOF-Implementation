@@ -1,10 +1,6 @@
 # EEOF
 Official implementation of EEOF: "Online Ensemble of Ensemble OVA Framework for Class Evolution with Dominant Emerging Classes" in the proceedings of ICDM 2023
 
-## Datasets
-
-All the datasets mentioned have been made available in the [datasets](./datasets) folder, including synthetic datasets and real-world datasets.
-
 ## Dependencies
 MATLAB R2022b
   
