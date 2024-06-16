@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.1109/ICDM58522.2023.00109.svg)](https://doi.org/10.1109/ICDM58522.2023.00109)
+
 # EEOF
 Official implementation of EEOF: "Online Ensemble of Ensemble OVA Framework for Class Evolution with Dominant Emerging Classes" in the proceedings of ICDM 2023
 
